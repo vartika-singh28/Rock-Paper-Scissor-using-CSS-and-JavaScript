@@ -1,0 +1,55 @@
+body {
+	background: linear-gradient(#ADA996,#F2F2F2,#DBDBDB,#EAEAEA);
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	height: 100vh;
+}
+
+#wrapper {
+	display: flex;
+}
+
+.opponent{
+	float: left;
+	margin-left: 313px;
+	margin-top: 35px;
+}
+
+#opponent-choice{
+	float: left;
+	width: 120px;
+	height: 120px;
+	margin-top: 100px;
+	margin-left: -110px;
+	border: 1px solid black;
+	border-radius: 50%;		
+}
+
+#opponent-score{
+	float: left;
+	margin-top: 235px;
+	margin-left: -71px;
+}
+
+#your-choice{
+	width: 120px;
+	height: 120px;
+	border: 1px solid black;
+	border-radius: 50%;	
+}
+
+#your-score{
+	margin-left: 470px;
+}
+
+#choices {
+	width: 240px;
+	height: 80px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#choices img {
+	width: 80px;
+	height: 80px;
+}
