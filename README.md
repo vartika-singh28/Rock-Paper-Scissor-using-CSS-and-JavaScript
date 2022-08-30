@@ -40,6 +40,6 @@ A player who decides to play rock will beat another player who has chosen scisso
 
 ## Screenshots
 
-<img width="521" alt="rock" src="https://user-images.githubusercontent.com/104501858/187403532-d7449f2a-e0f1-46a1-935e-f3312e1d40e2.png">  <img width="506" alt="rock2" src="https://user-images.githubusercontent.com/104501858/187403566-6b7f19e7-5741-4739-a544-ad75e3851290.png">
+<img width="521" alt="rock" src="https://user-images.githubusercontent.com/104501858/187403532-d7449f2a-e0f1-46a1-935e-f3312e1d40e2.png"> <img width="506" alt="rock2" src="https://user-images.githubusercontent.com/104501858/187403566-6b7f19e7-5741-4739-a544-ad75e3851290.png">
 
 
