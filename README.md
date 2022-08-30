@@ -1,6 +1,7 @@
 # Rock-Paper-Scissor
 
-## Description:Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This JavasScript [Mini Project] is aimed at automating one of the player called as Computerized Player and  taking rock, paper or scissor as an input from the used.
+## Description
+Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This JavasScript [Mini Project] is aimed at automating one of the player called as Computerized Player and  taking rock, paper or scissor as an input from the used.
 
 ## How to Play
 * Partners say, “Rock Paper Scissors” together with their hands in a fist.
